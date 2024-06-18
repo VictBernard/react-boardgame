@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "login": "v",
+      "password": "v",
+      "nbVictoires": 45,
+      "nbDefaites": 20
+    },
+    {
+      "id": "2",
+      "login": "test2",
+      "password": "test2",
+      "nbVictoires": 25,
+      "nbDefaites": 1
+    },
+    {
+      "id": "3",
+      "login": "test3",
+      "password": "test3",
+      "nbVictoires": 36,
+      "nbDefaites": 1
+    },
+    {
+      "id": "4",
+      "login": "test4",
+      "password": "test4",
+      "nbVictoires": 25,
+      "nbDefaites": 1
+    },
+    {
+      "id": "5",
+      "login": "test5",
+      "password": "test5",
+      "nbVictoires": 25,
+      "nbDefaites": 1
+    },
+    {
+      "id": "6",
+      "login": "test6",
+      "password": "test6",
+      "nbVictoires": 29,
+      "nbDefaites": 1
+    },
+    {
+      "id": "7",
+      "login": "test7",
+      "password": "test7",
+      "nbVictoires": 25,
+      "nbDefaites": 1
+    },
+    {
+      "id": "8",
+      "login": "test8",
+      "password": "test8",
+      "nbVictoires": 22,
+      "nbDefaites": 1
+    },
+    {
+      "id": "9",
+      "login": "test9",
+      "password": "test9",
+      "nbVictoires": 34,
+      "nbDefaites": 1
+    },
+    {
+      "id": "10",
+      "login": "test10",
+      "password": "test10",
+      "nbVictoires": 2,
+      "nbDefaites": 1
+    },
+    {
+      "id": "11",
+      "login": "test11",
+      "password": "test11",
+      "nbVictoires": 3,
+      "nbDefaites": 1
+    },
+    {
+      "id": "12",
+      "login": "test12",
+      "password": "test12",
+      "nbVictoires": 0,
+      "nbDefaites": 0
+    },
+    {
+      "id": "13",
+      "login": "test13",
+      "password": "test13",
+      "nbVictoires": 1,
+      "nbDefaites": 1
+    }
+  ]
+}
